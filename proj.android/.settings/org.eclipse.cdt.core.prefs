@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/0.193192909/NDK_ROOT/delimiter=\:
+environment/project/0.193192909/NDK_ROOT/operation=append
+environment/project/0.193192909/NDK_ROOT/value=/opt/android-ndk
+environment/project/0.193192909/append=true
+environment/project/0.193192909/appendContributed=true
